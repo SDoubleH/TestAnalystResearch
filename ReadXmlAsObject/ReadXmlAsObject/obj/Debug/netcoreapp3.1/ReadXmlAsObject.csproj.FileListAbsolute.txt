@@ -1,0 +1,13 @@
+D:\TestAnalystResearch\ReadXmlAsObject\ReadXmlAsObject\bin\Debug\netcoreapp3.1\ReadXmlAsObject.exe
+D:\TestAnalystResearch\ReadXmlAsObject\ReadXmlAsObject\bin\Debug\netcoreapp3.1\ReadXmlAsObject.deps.json
+D:\TestAnalystResearch\ReadXmlAsObject\ReadXmlAsObject\bin\Debug\netcoreapp3.1\ReadXmlAsObject.runtimeconfig.json
+D:\TestAnalystResearch\ReadXmlAsObject\ReadXmlAsObject\bin\Debug\netcoreapp3.1\ReadXmlAsObject.runtimeconfig.dev.json
+D:\TestAnalystResearch\ReadXmlAsObject\ReadXmlAsObject\bin\Debug\netcoreapp3.1\ReadXmlAsObject.dll
+D:\TestAnalystResearch\ReadXmlAsObject\ReadXmlAsObject\bin\Debug\netcoreapp3.1\ReadXmlAsObject.pdb
+D:\TestAnalystResearch\ReadXmlAsObject\ReadXmlAsObject\obj\Debug\netcoreapp3.1\ReadXmlAsObject.csprojAssemblyReference.cache
+D:\TestAnalystResearch\ReadXmlAsObject\ReadXmlAsObject\obj\Debug\netcoreapp3.1\ReadXmlAsObject.AssemblyInfoInputs.cache
+D:\TestAnalystResearch\ReadXmlAsObject\ReadXmlAsObject\obj\Debug\netcoreapp3.1\ReadXmlAsObject.AssemblyInfo.cs
+D:\TestAnalystResearch\ReadXmlAsObject\ReadXmlAsObject\obj\Debug\netcoreapp3.1\ReadXmlAsObject.dll
+D:\TestAnalystResearch\ReadXmlAsObject\ReadXmlAsObject\obj\Debug\netcoreapp3.1\ReadXmlAsObject.pdb
+D:\TestAnalystResearch\ReadXmlAsObject\ReadXmlAsObject\obj\Debug\netcoreapp3.1\ReadXmlAsObject.genruntimeconfig.cache
+D:\TestAnalystResearch\ReadXmlAsObject\ReadXmlAsObject\obj\Debug\netcoreapp3.1\ReadXmlAsObject.csproj.CoreCompileInputs.cache
